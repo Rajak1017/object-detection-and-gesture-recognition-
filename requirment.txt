@@ -1,0 +1,13 @@
+opencv-python
+numpy
+tensorflow
+mediapipe
+ultralytics
+pillow
+pyttsx3
+SpeechRecognition
+tk
+Flask
+protobuf
+cv2
+google-generativeai
